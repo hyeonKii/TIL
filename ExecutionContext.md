@@ -1,7 +1,7 @@
 ## Execution Context(실행 컨텍스트)
 
 
-사전에 알아야할 지식
+❗️사전에 알아야할 지식
 
 - 메모리에는 call stack과 memory heap이 존재
 - Call stack은 메모리에 생성된다
