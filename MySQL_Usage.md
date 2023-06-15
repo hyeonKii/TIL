@@ -8,7 +8,7 @@
 > drop database <db-name>
 
 4. User 생성
-> create user <user-name>@'host(ip)' identified by '<password>';
+> create user <user-name>@'host(ip)' identified by 'password';
 
 5. User 삭제
 > drop user '<사용자>'@'host(ip)';
