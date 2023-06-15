@@ -1,7 +1,7 @@
 ## Execution Context(실행 컨텍스트)
 
 
-사전에 알아야할 지식
+❗️사전에 알아야할 지식
 
 - 메모리에는 call stack과 memory heap이 존재
 - Call stack은 메모리에 생성된다
@@ -15,7 +15,7 @@
             메모리할당이 일어나는 곳
             참조타입(객체, 배열, 함수 등) 데이터가 저장된다.
             참조타입 데이터가 저장된 메모리힙의 주소값은 콜스택의 변수 식별자의 값으로 각각 저장된다.
-            콜스택에 할당되는 변수 식별자 자체는 콜스택 상의 '실행 컨텍스트(Execution Context)의 렉시컬 환경(Lexical Environment) 라는 곳에 저장됨
+            콜스택에 할당되는 변수 식별자 자체는 콜스택 상의 '실행 컨텍스트(Execution Context)의 렉시컬 환경(Lexical Environment) 라는 곳에 저장됨<br>
             <img src="https://velog.velcdn.com/images%2Fkirin%2Fpost%2Fdd74e18c-c465-44bd-935a-fa4e379d699d%2Fimage.png">
     
         - Call stack
